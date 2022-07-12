@@ -4,4 +4,4 @@ VALUES (‘John’, ‘Smith’, SELECT manager_id
 
 FROM Managers
 
-WHERE first_name = ‘Mary’ AND last_name = ‘Windsor’;
+WHERE first_name = ‘Mary’ AND last_name = ‘Windsor’);
